@@ -1,4 +1,4 @@
-# Java(JFrame)-Banking-System using mysql-XAMPP
+# Java(JFrame)-Banking-System using mysql-XAMPP as database
 
 ![Screenshot 2024-07-04 183639](https://github.com/Wawayooo/Java-Banking-System/assets/140779783/98d21bc7-0846-4758-9a07-fc52cb19bde7)
 ![Screenshot 2024-07-04 183717](https://github.com/Wawayooo/Java-Banking-System/assets/140779783/982e7a13-28e9-406e-94b9-c5e1ccb5f6d2)
